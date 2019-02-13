@@ -1,0 +1,38 @@
+.background {
+  background: lightyellow;
+  margin: 20px;
+  width: 300px;
+  height: 300px;
+  padding: 20px;
+  font-size: 20px;
+  border: 3px dotted slategray;
+  float: left;
+}
+
+.dog {
+  background: purple;
+  padding: 20px;
+  width: 300px;
+  margin: 20px;
+  float: left;
+}
+
+.nyan-cat {
+  float: left;
+  background: orange;
+  padding: 30px;
+  width: 300px;
+  height: auto;
+  margin: 20px;
+  position: relative;
+}
+
+.color {
+  background: MistyRose;
+}
+
+.button1, .button2, .button3, .button4 {
+  display: block;
+  width: 100%;
+  padding: 30px;
+}
